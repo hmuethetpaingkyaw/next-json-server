@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$smZXhCNGwb3o.SHTREgqIej.ctViW6CCdjlaZCPD8FsAeW6YqKZgm",
+      "id": 1
+    },
+    {
+      "email": "abc@mail.com",
+      "password": "$2a$10$onue97B84BASaBX0YeUD4ezlg14OJupDAtnVlT68g2ciqUAI0EioK",
+      "id": 2
+    },
+    {
+      "email": "hello@gmail.com",
+      "password": "$2a$10$bnHcxau3c1ZJ33N0ArrVb.vs46A9CjmRDNKhXTEuuV89sDWZY3UZO",
+      "id": 3
+    },
+    {
+      "email": "hey@gmail.com",
+      "password": "$2a$10$oSLIS18YG6rRdAGQ..T.7OgYw8m8XhhujKlO6mHX7kxGLTVpRm8nm",
+      "id": 4
+    }
+  ],
+  "weather_history": [
+    {
+      "name": "Mandalay",
+      "weather": "Clear",
+      "temp": 20.6,
+      "humidity": 72,
+      "wind_speed": 1.54,
+      "feels_like": 20.6,
+      "date": "2023-5 - 0",
+      "id": 1
+    },
+    {
+      "name": "Mandalay",
+      "weather": "Clear",
+      "temp": 9.43,
+      "humidity": 87,
+      "wind_speed": 1.54,
+      "feels_like": 8.96,
+      "date": "2023-5 - 0",
+      "id": 2
+    }
+  ]
+}
