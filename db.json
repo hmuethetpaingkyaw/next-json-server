@@ -31,16 +31,6 @@
       "feels_like": 20.6,
       "date": "2023-5 - 0",
       "id": 1
-    },
-    {
-      "name": "Mandalay",
-      "weather": "Clear",
-      "temp": 9.43,
-      "humidity": 87,
-      "wind_speed": 1.54,
-      "feels_like": 8.96,
-      "date": "2023-5 - 0",
-      "id": 2
     }
   ]
 }
